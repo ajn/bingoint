@@ -1,0 +1,10 @@
+== BingoInt
+
+Convert Integers into their Bingo equivalent. No really.
+
+Example: 
+
+  88.to_bingo #=> "Two fat ladies"
+  
+  two_fat_ladies #=> 88
+
